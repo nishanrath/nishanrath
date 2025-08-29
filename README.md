@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Nishan
 
 I'm a beginner developer passionate about learning new technologies and building cool things. Currently, I'm learning:
 
