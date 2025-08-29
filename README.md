@@ -4,7 +4,7 @@ I'm a beginner developer passionate about learning new technologies and building
 
 - 🌐 HTML, CSS & JavaScript  
 - 💡 Git & GitHub
-- 
+  
 ## 🌱 What I'm working on:
 
 - Building simple web pages from scratch  
