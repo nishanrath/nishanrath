@@ -3,12 +3,8 @@
 I'm a beginner developer passionate about learning new technologies and building cool things. Currently, I'm learning:
 
 - 🌐 HTML, CSS & JavaScript  
-- 💡 Git & GitHub  
-
-## 🔍 I'm interested in:
-  
-- 📱 Front-end development    
-
+- 💡 Git & GitHub
+- 
 ## 🌱 What I'm working on:
 
 - Building simple web pages from scratch  
